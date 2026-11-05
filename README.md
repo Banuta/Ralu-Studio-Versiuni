@@ -1,15 +1,13 @@
-# Ralu Studio: versiuni
+# Ralu Studio: actualizări
 
-Aici se publică automat installerul **Ralu Studio** (montaj automat cu agent AI).
+Aici se publică automat **doar actualizările** pentru Ralu Studio deja instalat. Installerul nu este publicat aici.
 
-## Instalare
+## Cum actualizezi
 
-1. Deschide pagina [Releases](https://github.com/Banuta/Ralu-Studio-Versiuni/releases/latest) și descarcă **`RaluStudio-Setup.exe`**.
-2. Dublu-click → **Instalează** → **Gata**. Dacă Windows spune „Windows a protejat PC-ul”: **Mai multe informații → Rulează oricum**.
-3. La prima pornire apasă **Conectează-te cu Claude** sau **Conectează-te cu ChatGPT** și intră în contul tău, în browser.
+În aplicație apasă **Actualizări → Actualizează acum**. Aplicația descarcă singură actualizarea, o pune și se repornește. Clipurile, setările și conectarea rămân.
 
-## Actualizare
+Nu e nevoie să descarci nimic manual de pe această pagină:
+- `RaluStudio-code.zip` și `manifest.json` sunt folosite de aplicație;
+- arhivele „Source code (zip / tar.gz)” le adaugă GitHub automat la fiecare versiune și conțin doar acest README.
 
-În aplicație apasă **Actualizări → Actualizează acum**. Clipurile și setările rămân.
-
-Fișierele `RaluStudio-code.zip` și `manifest.json` sunt folosite de aplicație pentru actualizări; nu trebuie descărcate manual.
+Pentru un calculator nou, cere installerul de la autor.
